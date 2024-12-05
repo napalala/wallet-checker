@@ -2,3 +2,9 @@
 .env
 .idea
 /results/*
+# Исключить папку user_data
+user_data/
+
+# Исключить файл .env
+wallet-checker/.env
+
